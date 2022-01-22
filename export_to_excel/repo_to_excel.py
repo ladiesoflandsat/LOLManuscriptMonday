@@ -24,10 +24,12 @@ def main():
             try:
                 link = each.find('a')['href']
                 links.append(link)
-            # except error as e print(e)
+            # TODO make a better exception
             except:
                 pass
-
+    
+    # your getting a dump of 3 times the links so I want to split it into a nested list. 
+    # TODO remove magic numbers
     length_links = len(links)//3
     result = [links[i::3] for i in range(length_links)]
 
@@ -42,6 +44,7 @@ def main():
     for link_col in columns_url:
         df[link_col] = df[link_col].map(lambda short_link: '=HYPERLINK("{}","{}")'.format(short_link,short_link))
     # save to excel drop index
+    # TODO write date to filename
     df.to_excel('LadiesofLandsat_README.xlsx', index=False)
 
 
