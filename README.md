@@ -10,7 +10,7 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 
  **Week** | **Date** | **Name** | **Article Title** | **Article Link** | **Twitter Handle** | **MM Tweet** | **Key Words** 
 ---|---|---|---|---|---|---|---
- 1 | Oct 21, 2019 | Dr. Keiko Nomura | Oil palm concessions in southern Myanmar consist mostly of unconverted forest | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3) [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | Forest 
+ 1 | Oct 21, 2019 | Dr. Keiko Nomura | Oil palm concessions in southern Myanmar consist mostly of unconverted forest | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3)  | [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | Forest 
  2 | Oct 28, 2019 | Dr. Catherine Nakalembe |  | Natural Hazards | @CLNakalembe | Nakalembe 2019 |  
  3 | Nov 4, 2019 | Dr. Mary Henry and Dr. Jessica McCarty |  | Remote Sensing | @MaryHenryGEO and @jmccarty_geo | Henry 2019 |  
  4 | Nov 11, 2019 | Sherrie Wang |  | Remote Sensing of Environment | @sherwang | Wang 2019 |  
