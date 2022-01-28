@@ -30,20 +30,20 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  18 | Feb 17, 2020 | Dr. Amy Neuenschwander |  | [Remote Sensing of Enviornment](https://www.sciencedirect.com/science/article/abs/pii/S0034425718305066?via%3Dihub)  |[@longhornglam](http://www.twitter.com/longhornglam) |[Neuenschwander 2019](https://twitter.com/LadiesOfLandsat/status/1229436472257843201?s=20) |  
  19 | Feb 24, 2020 | Dr. Pinki Mondal |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425719306121) |[@environmondal](http://www.twitter.com/environmondal) |[Mondal 2020](https://twitter.com/LadiesOfLandsat/status/1231973907403505668?s=20) |  
  20 | Mar 2, 2020 | Dr. Agnieszka Faulkner |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/18/2132)  |[@its__Agnes](http://www.twitter.com/its__Agnes) |[Faulkner 2019](https://twitter.com/LadiesOfLandsat/status/1234467231511318529?s=20) |  
- 21 | Mar 9, 2020 | Grace Koech |  | Modeling Earth Systems and Environment | @GraceKoech1 | Koech 2020 |  
- 22 | Mar 16, 2020 | Dr. Eleanor Stokes |  | Remote Sensing of Environment | @UrbanElla | Stokes 2019 |  
- 23 | Mar 23, 2020 | Africa Flores-Anderson |  | Frontiers in Environmental Science | @africa_science | Flores-Anderson 2020 |  
- 24 | Mar 30, 2020 | Amanda Weigel |  | Earth Interactions | @amweigelWX | Weigel 2019 |  
- 25 | Apr 6, 2020 | Dr. Nkeiruka Nneti Onyia |  | Remote Sensing | @NNkeiru | Onyia 2018 |  
- 26 | Apr 13, 2020 | Dr. Mika Tosca |  | Remote Sensing | @trans_icon_mika | Tosca 2017 |  
- 27 | Apr 20, 2020 | Dr. Gopika Suresh |  | Remote Sensing Applications: Society and Environment | @Go__pika | Suresh 2017 |  
- 28 | Apr 27, 2020 | Dr. Laura Dingle Robertson |  | Wetlands | @LDR1 | Dingle Robertson 2015 |  
- 29 | May 4, 2020 | Phoebe Oduor |  | Earth Science Satellite Applications | @poduor24 | Oduor 2016 |  
- 30 | May 11, 2020 | Jesslyn Brown |  | Remote Sensing of Environment | @jesslynbrown1 | Brown 2020 |  
- 31 | May 18, 2020 | Dr. Harini Nagendra |  | Journal of Land Use Science | @HariniNagendra | Nagendra 2019 |  
- 32 | May 25, 2020 | Dr. Inga Jonkheere |  | Hemispherical Photography in Forest Science: Theory, Methods, Applications | @aingejo | Jonkheere 2017 |  
- 33 | Jun 1, 2020 | Radhika Bhargava |  | Estuarine, Coastal and Shelf Science | @radb06 | Bhargava 2021 |  
- 34 | Jun 8, 2020 | Dr. Raha Hakimdavar |  | Remote Sensing | @RahaHakimdavar | Hakimdavar 2020 |  
+ 21 | Mar 9, 2020 | Grace Koech |  | [Modeling Earth Systems and Environment](https://link.springer.com/article/10.1007/s40808-019-00695-8)  |[@GraceKoech1](http://www.twitter.com/GraceKoech1) |[Koech 2020](https://twitter.com/LadiesOfLandsat/status/1237022923862540289?s=20) |  
+ 22 | Mar 16, 2020 | Dr. Eleanor Stokes |  | [Remote Sensing of Environment](https://ieeexplore.ieee.org/abstract/document/8809074)  |[@UrbanElla](http://www.twitter.com/UrbanElla) |[Stokes 2019](https://twitter.com/LadiesOfLandsat/status/1239562335158710272?s=20) |  
+ 23 | Mar 23, 2020 | Africa Flores-Anderson |  | [Frontiers in Environmental Science](https://t.co/3ujzkMnVyZ?amp=1)  |[@africa_science](http://www.twitter.com/africa_science) |[Flores-Anderson 2020](https://twitter.com/LadiesOfLandsat/status/1242073655611478019?s=20) |  
+ 24 | Mar 30, 2020 | Amanda Weigel |  | [Earth Interactions](https://t.co/ad9psvbIne?amp=1)  |[@amweigelWX](http://www.twitter.com/amweigelWX) |[Weigel 2019](https://twitter.com/LadiesOfLandsat/status/1244635251361660931?s=20) |  
+ 25 | Apr 6, 2020 | Dr. Nkeiruka Nneti Onyia |  | [Remote Sensing](https://www.mdpi.com/2072-4292/10/6/897/htm) |[@NNkeiru](http://www.twitter.com/NNkeiru) |[Onyia 2018](https://twitter.com/LadiesOfLandsat/status/1247162029699485697?s=20) |  
+ 26 | Apr 13, 2020 | Dr. Mika Tosca |  | [Remote Sensing](https://www.mdpi.com/2072-4292/9/7/674/htm)  |[@trans_icon_mika](http://www.twitter.com/trans_icon_mika) |[Tosca 2017](https://twitter.com/LadiesOfLandsat/status/1249717756691439622?s=20) |  
+ 27 | Apr 20, 2020 | Dr. Gopika Suresh |  | [Remote Sensing Applications: Society and Environment](https://www.sciencedirect.com/science/article/pii/S2352938516300817)  |[@Go__pika](http://www.twitter.com/Go__pika) |[Suresh 2017](https://twitter.com/LadiesOfLandsat/status/1252239576359473153?s=20) |  
+ 28 | Apr 27, 2020 | Dr. Laura Dingle Robertson |  | [Wetlands](https://link.springer.com/article/10.1007/s13157-015-0696-5)  |[@LDR1](http://www.twitter.com/LDR1) |[Dingle Robertson 2015](https://twitter.com/LadiesOfLandsat/status/1254750782156681216?s=20) |  
+ 29 | May 4, 2020 | Phoebe Oduor |  | [Earth Science Satellite Applications](https://link.springer.com/chapter/10.1007/978-3-319-33438-7_4)  |[@poduor24](http://www.twitter.com/poduor24) |[Oduor 2016](https://twitter.com/LadiesOfLandsat/status/1257309003589144577?s=20) |  
+ 30 | May 11, 2020 | Jesslyn Brown |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S003442571930375X?casa_token=szzPAhwc1boAAAAA:umiFz362PGCliUX5VXqoKtwuRUak3kEPLJ_4FdRA1QRkgt5t7TILF_njFrDE1ffHjqSvWiFlsPZe#bb0025)  |[@jesslynbrown1](http://www.twitter.com/jesslynbrown1) |[Brown 2020](https://twitter.com/LadiesOfLandsat/status/1259840024260075522?s=20) |  
+ 31 | May 18, 2020 | Dr. Harini Nagendra |  | [Journal of Land Use Science](https://www.tandfonline.com/eprint/GQEPFZWZHDFGRSUYI27T/full?target=10.1080/1747423X.2020.1720842)  |[@HariniNagendra](http://www.twitter.com/HariniNagendra) |[Nagendra 2019](https://twitter.com/LadiesOfLandsat/status/1262370358109319168?s=20) |  
+ 32 | May 25, 2020 | Dr. Inga Jonkheere |  | [Hemispherical Photography in Forest Science: Theory, Methods, Applications](https://link.springer.com/chapter/10.1007/978-94-024-1098-3_5) |[@aingejo](http://www.twitter.com/aingejo) |[Jonkheere 2017](https://twitter.com/LadiesOfLandsat/status/1264939888731918338?s=20) |  
+ 33 | Jun 1, 2020 | Radhika Bhargava |  | [Estuarine, Coastal and Shelf Science](https://www.sciencedirect.com/science/article/pii/S0272771419312272) |[@radb06](http://www.twitter.com/radb06) |[Bhargava 2021](https://twitter.com/LadiesOfLandsat/status/1267425288348209153?s=20) |  
+ 34 | Jun 8, 2020 | Dr. Raha Hakimdavar |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/10/1634/htm)  |[@RahaHakimdavar](http://www.twitter.com/RahaHakimdavar) |[Hakimdavar 2020](https://twitter.com/LadiesOfLandsat/status/1269988629457309696?s=20) |  
  35 | Jun 15, 2020 | Dr. Polyanna Da Conceição Bispo |  | Remote Sensing of Environment | @Polybispo | Da Conceição Bispo 2019 |  
  36 | Jun 22, 2020 | Dr. Samiah Moustafa |  | Remote Sensing of Environment | @Samiahmou | Moustafa 2017 |  
  37 | Jun 29, 2020 | Dr. Fabiola D. Yépez and Ana Lucrecia Rivera |  | International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences | @fabiolayepez and @LucreciaRivera | Yépez 2013 |  
