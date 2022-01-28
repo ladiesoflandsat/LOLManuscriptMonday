@@ -75,16 +75,16 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  63 | Dec 28, 2020 | 2020 MM Moments Thread |  | [2020 MM](https://twitter.com/i/events/1341125452728045577?s=20) |  |  |  
  64 | Jan 4, 2021 | Dr. Joanne White |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425720305423)   |[@Joanne_C_White](http://www.twitter.com/Joanne_C_White) |[White 2021](https://twitter.com/LadiesOfLandsat/status/1346107589319421959?s=20) |  
  65 | Jan 11, 2021 | Dr. Dawn Wright |  | [Oceanography](https://www.researchgate.net/profile/Dawn_Wright5/publication/317409531_Swells_Soundings_and_Sustainability_butHere_Be_Monsters/links/59adaedaa6fdcce55a416a2e/Swells-Soundings-and-Sustainability-butHere-Be-Monsters.pdf)   |[@deepseadawn](http://www.twitter.com/deepseadawn) |[Wright 2017](https://twitter.com/LadiesOfLandsat/status/1348646354214674434?s=20) |  
- 66 | Jan 18, 2021 | Dr. Meredith Brown |  | Remote Sensing | @mglbrown | Brown 2020 |  
- 67 | Jan 25, 2021 | Charmaine Cruz |  | International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences | @charmcharmcruz | Cruz 2019 |  
- 68 | Feb 1, 2021 | Dr. Louise Leroux |  | European Journal of Agronomy | @LerouxLouise4 | Leroux 2019 |  
- 69 | Feb 8, 2021 | Ufuoma Ovienmhada |  | DSpace@MIT | @ItsUfuoma | Ovienmhada 2020 |  
- 70 | Feb 15, 2021 | Dr. Alyssa Whitcraft |  | Remote Sensing of Environment | @AKWhitcraft | Whitcraft 2019 |  
- 71 | Feb 22, 2021 | Jacqueline Hung |  | Arctic Science | @jackiehung4 | Hung 2020 |  
- 72 | Mar 1, 2021 | Carly Beneke (Mertes) |  | Remote Sensing of Environment | @CarlyMertes | Mertes 2015 |  
- 73 | Mar 8, 2021 | Anam Khan |  | Biogeosciences - Preprint | @An_Khan3 | Khan 2021 |  
- 74 | Mar 15, 2021 | Dr. Francesca Giannetti |  | Remote Sensing | @fgiannetti_FRS | Giannetti 2020 |  
- 75 | Mar 22, 2021 | Dr. Yujia Zhang |  | Landscape Ecology | Zhang 2019 |  |  
+ 66 | Jan 18, 2021 | Dr. Meredith Brown |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/3/372)  |[@mglbrown](http://www.twitter.com/mglbrown) |[Brown 2020](https://twitter.com/LadiesOfLandsat/status/1351184554242035713?s=20) |  
+ 67 | Jan 25, 2021 | Charmaine Cruz |  | [International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences](https://pdfs.semanticscholar.org/bfe5/5c8fe35ea8751be720d11c7ba9524a81fd38.pdf)  |[@charmcharmcruz](http://www.twitter.com/charmcharmcruz) |[Cruz 2019](https://twitter.com/LadiesOfLandsat/status/1353715482260594689?s=20) |  
+ 68 | Feb 1, 2021 | Dr. Louise Leroux |  | [European Journal of Agronomy](https://www.sciencedirect.com/science/article/abs/pii/S116103011830354X)  |[@LerouxLouise4](http://www.twitter.com/LerouxLouise4) |[Leroux 2019](https://twitter.com/LadiesOfLandsat/status/1356245391960846341?s=20) |  
+ 69 | Feb 8, 2021 | Ufuoma Ovienmhada |  | [DSpace@MIT](https://dspace.mit.edu/handle/1721.1/127489)  |[@ItsUfuoma](http://www.twitter.com/ItsUfuoma) |[Ovienmhada 2020](https://twitter.com/LadiesOfLandsat/status/1358785959509323776?s=20) |  
+ 70 | Feb 15, 2021 | Dr. Alyssa Whitcraft |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425719304894)   |[@AKWhitcraft](http://www.twitter.com/AKWhitcraft) |[Whitcraft 2019](https://twitter.com/LadiesOfLandsat/status/1361320899014762506?s=20) |  
+ 71 | Feb 22, 2021 | Jacqueline Hung |  | [Arctic Science](https://cdnsciencepub.com/doi/full/10.1139/as-2019-0029#.XvngzihKhPY)   |[@jackiehung4](http://www.twitter.com/jackiehung4) |[Hung 2020](https://twitter.com/LadiesOfLandsat/status/1363852594683199490?s=20) |  
+ 72 | Mar 1, 2021 | Carly Beneke (Mertes) |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S003442571400368X)   |[@CarlyMertes](http://www.twitter.com/CarlyMertes) |[Mertes 2015](https://twitter.com/LadiesOfLandsat/status/1366355318305873922?s=20) |  
+ 73 | Mar 8, 2021 | Anam Khan |  | [Biogeosciences - Preprint](https://bg.copernicus.org/preprints/bg-2020-454/)      |[@An_Khan3](http://www.twitter.com/An_Khan3) |[Khan 2021](https://twitter.com/LadiesOfLandsat/status/1368911665056595974?s=20) |  
+ 74 | Mar 15, 2021 | Dr. Francesca Giannetti |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/22/3720)   |[@fgiannetti_FRS](http://www.twitter.com/fgiannetti_FRS) |[Giannetti 2020](https://twitter.com/LadiesOfLandsat/status/1371408310583316480?s=20) |  
+ 75 | Mar 22, 2021 | Dr. Yujia Zhang |  | [Landscape Ecology](https://link.springer.com/article/10.1007/s10980-019-00794-y)   |[]() |[Zhang 2019](https://twitter.com/LadiesOfLandsat/status/1373988422776455172?s=20) |  |  
  76 | Mar 29, 2021 | Dr. Mylène Jacquemart |  | Geology | @MyleneJac | Jacquemart 2020 |  
  77 | April 5, 2021 | Kurnia Latifiana |  | 2018 4th International Conference on Science and Technology | @latifiana | Latifiana 2018 |  
  78 | April 12, 2021 | Dr. Kirsten J. Lees |  | Science of The Total Environment | @K_J_Lees | Lees 2021 |  
