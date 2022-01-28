@@ -12,8 +12,8 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 ---|---|---|---|---|---|---|---
  1 | Oct 21, 2019 | Dr. Keiko Nomura | Oil palm concessions in southern Myanmar consist mostly of unconverted forest | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3)  | [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | Forest 
  2 | Oct 28, 2019 | Dr. Catherine Nakalembe |  |[Natural Hazards](https://link.springer.com/article/10.1007/s11069-017-3106-x)|[@CLNakalembe](http://www.twitter.com/CLNakalembe) |[Nakalembe 2019](https://twitter.com/LadiesOfLandsat/status/1188832795201720322?s=20) |  
- 3 | Nov 4, 2019 | Dr. Mary Henry and Dr. Jessica McCarty |  | Remote Sensing | @MaryHenryGEO and @jmccarty_geo | Henry 2019 |  
- 4 | Nov 11, 2019 | Sherrie Wang |  | Remote Sensing of Environment | @sherwang | Wang 2019 |  
+ 3 | Nov 4, 2019 | Dr. Mary Henry and Dr. Jessica McCarty |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/2/104/htm)|[@MaryHenryGEO](http://www.twitter.com/MaryHenryGEO) and [@jmccarty_geo](http://www.twitter.com/jmccarty_geo) |[Henry 2019](https://twitter.com/LadiesOfLandsat/status/1191384611114422273?s=20) |  
+ 4 | Nov 11, 2019 | Sherrie Wang |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425718305790) |[@sherwang](http://www.twitter.com/sherwang) |[Wang 2019](https://twitter.com/LadiesOfLandsat/status/1193921377474097154?s=20) |  
  5 | Nov 18, 2019 | Dr. Michelle Kalamandeen |  | Scientific Reports | @Earth2Mika | Kalamandeen 2018 |  
  6 | Nov 25, 2019 | Dr. Jody Vogeler |  | Remote Sensing of Environment | @JodyVogeler | Vogeler 2018 |  
  7 | Dec 2, 2019 | Dr. Temilola Fatoyinbo |  | Environmental Research Letters | @EarthToLola | Fatoyinbo 2018 |  
