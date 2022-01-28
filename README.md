@@ -14,12 +14,12 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  2 | Oct 28, 2019 | Dr. Catherine Nakalembe |  |[Natural Hazards](https://link.springer.com/article/10.1007/s11069-017-3106-x)|[@CLNakalembe](http://www.twitter.com/CLNakalembe) |[Nakalembe 2019](https://twitter.com/LadiesOfLandsat/status/1188832795201720322?s=20) |  
  3 | Nov 4, 2019 | Dr. Mary Henry and Dr. Jessica McCarty |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/2/104/htm)|[@MaryHenryGEO](http://www.twitter.com/MaryHenryGEO) and [@jmccarty_geo](http://www.twitter.com/jmccarty_geo) |[Henry 2019](https://twitter.com/LadiesOfLandsat/status/1191384611114422273?s=20) |  
  4 | Nov 11, 2019 | Sherrie Wang |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425718305790) |[@sherwang](http://www.twitter.com/sherwang) |[Wang 2019](https://twitter.com/LadiesOfLandsat/status/1193921377474097154?s=20) |  
- 5 | Nov 18, 2019 | Dr. Michelle Kalamandeen |  | Scientific Reports | @Earth2Mika | Kalamandeen 2018 |  
- 6 | Nov 25, 2019 | Dr. Jody Vogeler |  | Remote Sensing of Environment | @JodyVogeler | Vogeler 2018 |  
- 7 | Dec 2, 2019 | Dr. Temilola Fatoyinbo |  | Environmental Research Letters | @EarthToLola | Fatoyinbo 2018 |  
- 8 | Dec 9, 2019 | Dr. Brianna R. Pagán |  | Remote Sensing | @Brianna_R_Pagan | Pagán 2019 |  
- 9 | Dec 16, 2019 | Susan M. Kotikot |  | Remote Sensing | Kotikot 2020 |  |  
- 10 | Dec 23, 2019 | Tianjia Liu |  | Environmental Research Communications | @TheRealPyroTina | Liu 2019 |  
+ 5 | Nov 18, 2019 | Dr. Michelle Kalamandeen |  | [Scientific Reports](https://www.nature.com/articles/s41598-018-19358-2) |[@Earth2Mika](http://www.twitter.com/Earth2Mika) |[Kalamandeen 2018](https://twitter.com/LadiesOfLandsat/status/1196458378148679680?s=20) |  
+ 6 | Nov 25, 2019 | Dr. Jody Vogeler |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425718300579?via%3Dihub) |[@JodyVogeler](http://www.twitter.com/JodyVogeler) |[Vogeler 2018](https://twitter.com/LadiesOfLandsat/status/1198994866354741251?s=20) |  
+ 7 | Dec 2, 2019 | Dr. Temilola Fatoyinbo |  | [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aa9f03/meta) |[@EarthToLola](http://www.twitter.com/EarthToLola) |[Fatoyinbo 2018]() |  
+ 8 | Dec 9, 2019 | Dr. Brianna R. Pagán |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/4/413)  |[@Brianna_R_Pagan](http://www.twitter.com/Brianna_R_Pagan) |[Pagán 2019](https://twitter.com/LadiesOfLandsat/status/1204068397614542849?s=20) |  
+ 9 | Dec 16, 2019 | Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0303243418309899)  |[]() |[Kotikot 2020](https://twitter.com/LadiesOfLandsat/status/1206605259755401218?s=20) |  |  
+ 10 | Dec 23, 2019 | Tianjia Liu |  | [Environmental Research Communications](https://iopscience.iop.org/article/10.1088/2515-7620/ab056c)  |[@TheRealPyroTina](http://www.twitter.com/TheRealPyroTina) |[Liu 2019](https://twitter.com/LadiesOfLandsat/status/1209248987498369024?s=20) |  
  11 | Dec 30, 2019 | Jen Hirdman |  | Remote Sensing | @JNHird | Hird 2017 |  
  12 | Jan 6, 2020 | Dr. Maryam Pourshamsi |  | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing | @marpourshamsi | Pourshamsi 2018 |  
  13 | Jan 13, 2020 | Dr. Beth Tellman |  | Nature Sustainability | @pazjusticiavida | Tellman 2020 |  
