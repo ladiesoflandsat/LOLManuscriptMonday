@@ -20,16 +20,16 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  8 | Dec 9, 2019 | Dr. Brianna R. Pagán |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/4/413)  |[@Brianna_R_Pagan](http://www.twitter.com/Brianna_R_Pagan) |[Pagán 2019](https://twitter.com/LadiesOfLandsat/status/1204068397614542849?s=20) |  
  9 | Dec 16, 2019 | Susan M. Kotikot  |  |[Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0303243418309899)  |[]() |[Kotikot 2020](https://twitter.com/LadiesOfLandsat/status/1206605259755401218?s=20) |  |  
  10 | Dec 23, 2019 | Tianjia Liu |  | [Environmental Research Communications](https://iopscience.iop.org/article/10.1088/2515-7620/ab056c)  |[@TheRealPyroTina](http://www.twitter.com/TheRealPyroTina) |[Liu 2019](https://twitter.com/LadiesOfLandsat/status/1209248987498369024?s=20) |  
- 11 | Dec 30, 2019 | Jen Hirdman |  | Remote Sensing | @JNHird | Hird 2017 |  
- 12 | Jan 6, 2020 | Dr. Maryam Pourshamsi |  | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing | @marpourshamsi | Pourshamsi 2018 |  
- 13 | Jan 13, 2020 | Dr. Beth Tellman |  | Nature Sustainability | @pazjusticiavida | Tellman 2020 |  
- 14 | Jan 20, 2020 | Andréa Puzzi Nicolau |  | Environmental Research Letters | @puzzinicolau | Puzzi Nicolau 2019 |  
- 15 | Jan 27, 2020 | Lillian Ndungu |  | Frontiers in Environmental Science | @lilianwangui | Ndungu 2019 |  
- 16 | Feb 3, 2020 | Kelsey Herndon |  | Sensors | @KEHerndon | Herndon 2020 |  
- 17 | Feb 10, 2020 | Enass Said Al-Kharusi |  | Remote Sensing | @SaidEnass | Al-Kharusi 2020 |  
- 18 | Feb 17, 2020 | Dr. Amy Neuenschwander |  | Remote Sensing of Enviornment | @longhornglam | Neuenschwander 2019 |  
- 19 | Feb 24, 2020 | Dr. Pinki Mondal |  | Remote Sensing of Environment | @environmondal | Mondal 2020 |  
- 20 | Mar 2, 2020 | Dr. Agnieszka Faulkner |  | Remote Sensing | @its__Agnes | Faulkner 2019 |  
+ 11 | Dec 30, 2019 | Jen Hirdman |  | [Remote Sensing](https://www.mdpi.com/2072-4292/9/12/1315/htm) |[@JNHird](http://www.twitter.com/JNHird) |[Hird 2017](https://twitter.com/LadiesOfLandsat/status/1211678631279374336?s=20) |  
+ 12 | Jan 6, 2020 | Dr. Maryam Pourshamsi |  | [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/8469014)  |[@marpourshamsi](http://www.twitter.com/marpourshamsi) |[Pourshamsi 2018](https://twitter.com/LadiesOfLandsat/status/1214215096098021377?s=20) |  
+ 13 | Jan 13, 2020 | Dr. Beth Tellman |  | [Nature Sustainability](https://www.nature.com/articles/s41893-019-0457-1) |[@pazjusticiavida](http://www.twitter.com/pazjusticiavida) |[Tellman 2020](https://twitter.com/LadiesOfLandsat/status/1216755880877862918?s=20) |  
+ 14 | Jan 20, 2020 | Andréa Puzzi Nicolau |  | [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/ab57c3) |[@puzzinicolau](http://www.twitter.com/puzzinicolau) |[Puzzi Nicolau 2019](https://twitter.com/LadiesOfLandsat/status/1219288915078799360?s=20) |  
+ 15 | Jan 27, 2020 | Lillian Ndungu |  | [Frontiers in Environmental Science](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00187/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Environmental_Science&id=475659)  |[@lilianwangui](http://www.twitter.com/lilianwangui) |[Ndungu 2019](https://twitter.com/LadiesOfLandsat/status/1221826465593004033?s=20) |  
+ 16 | Feb 3, 2020 | Kelsey Herndon |  | [Sensors](https://www.mdpi.com/1424-8220/20/2/431)  |[@KEHerndon](http://www.twitter.com/KEHerndon) |[Herndon 2020](https://twitter.com/LadiesOfLandsat/status/1224362311894343682?s=20) |  
+ 17 | Feb 10, 2020 | Enass Said Al-Kharusi |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/1/157/htm)  |[@SaidEnass](http://www.twitter.com/SaidEnass) |[Al-Kharusi 2020](https://twitter.com/LadiesOfLandsat/status/1226898687584096256?s=20) |  
+ 18 | Feb 17, 2020 | Dr. Amy Neuenschwander |  | [Remote Sensing of Enviornment](https://www.sciencedirect.com/science/article/abs/pii/S0034425718305066?via%3Dihub)  |[@longhornglam](http://www.twitter.com/longhornglam) |[Neuenschwander 2019](https://twitter.com/LadiesOfLandsat/status/1229436472257843201?s=20) |  
+ 19 | Feb 24, 2020 | Dr. Pinki Mondal |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425719306121) |[@environmondal](http://www.twitter.com/environmondal) |[Mondal 2020](https://twitter.com/LadiesOfLandsat/status/1231973907403505668?s=20) |  
+ 20 | Mar 2, 2020 | Dr. Agnieszka Faulkner |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/18/2132)  |[@its__Agnes](http://www.twitter.com/its__Agnes) |[Faulkner 2019](https://twitter.com/LadiesOfLandsat/status/1234467231511318529?s=20) |  
  21 | Mar 9, 2020 | Grace Koech |  | Modeling Earth Systems and Environment | @GraceKoech1 | Koech 2020 |  
  22 | Mar 16, 2020 | Dr. Eleanor Stokes |  | Remote Sensing of Environment | @UrbanElla | Stokes 2019 |  
  23 | Mar 23, 2020 | Africa Flores-Anderson |  | Frontiers in Environmental Science | @africa_science | Flores-Anderson 2020 |  
