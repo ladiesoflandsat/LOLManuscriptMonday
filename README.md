@@ -60,21 +60,21 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  48 | Sep 14, 2020 | Dr. Mirela Tulbure |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425716300621)  |[@MirelaGTulbure](http://www.twitter.com/MirelaGTulbure) |[Tulbure 2016](https://twitter.com/LadiesOfLandsat/status/1305505272350289920?s=20) |  
  49 | Sep 21, 2020 | Dr. Gohar Ghazaryan |  | [GIScience & Remote Sensing](https://www.tandfonline.com/eprint/CVN9WHNHECREGFDQ8EGH/full?target=10.1080/15481603.2020.1778332)  |[@ghazaryangohar](http://www.twitter.com/ghazaryangohar) |[Ghazaryan 2020](https://twitter.com/LadiesOfLandsat/status/1308029378081755136?s=20) |  
  50 | Sep 28, 2020 | Sarah Banks and Dr. Koreen Millard |  | [Remote Sensing](https://www.mdpi.com/2072-4292/9/12/1206)  |[@SAR_ahBanks](http://www.twitter.com/SAR_ahBanks) and [@GeoKoreen](https://twitter.com/GeoKoreen)|[Banks 2017](https://twitter.com/LadiesOfLandsat/status/1310565151767228419?s=20) |  
- 51 | Oct 5, 2020 | Karen Chen |  | Remote Sensing of Environment | @THKarenChen | Chen 2020 |  
- 52 | Oct 12, 2020 | Dr. Karen Bailey |  | Journal of Land Use Science | @karnebe | Bailey 2015 |  
- 53 | Oct 19, 2020 | Dr. Laura Duncanson |  | Remote Sensing of Environment | @LauraDuncanson | Duncanson 2020 |  
- 54 | Oct 26, 2020 | Dr. Vanessa Brum-Bastos |  | Ecological Informatics | @VanessaBBastos | Brum-Bastos 2020 |  
- 55 | Nov 2, 2020 | Mary K. Bennett |  | Drones | @Katie_Ben91 | Bennett 2020 |  
- 56 | Nov 9, 2020 | Dr. Flavia de Souza Mendes |  | Remote Sensing | @flasmendes | de Souza Mendes 2019 |  
- 57 | Nov 16, 2020 | Dr. Alicia Caruso |  | Australian Journal of Earth Sciences | @aliciascaruso | Caruso 2020 |  
- 58 | Nov 23, 2020 | Dr. Di Yang |  | Geo-spatial Information Science | @yangdi1031 | Yang 2017 |  
- 59 | Nov 30, 2020 | Dr. Raechel Portelli |  | GIScience & Remote Sensing | @CurmudgeonPhD | Portelli 2015 |  
- 60 | Dec 7, 2020 | Dr. Xiaoxiang Zhu |  | Remote Sensing | @xiaoxiang_zhu | Zhu 2018 |  
- 61 | Dec 14, 2020 | Chippie Kislik |  | Remote Sensing | @chippiekizzle | Kislik 2020 |  
- 62 | Dec 21, 2020 | Dr. Priyanka deSouza |  | Atmospheric Measurement Techniques | @PDez90 | deSouza 2020 |  
- 63 | Dec 28, 2020 | 2020 MM Moments Thread |  | 2020 MM |  |  |  
- 64 | Jan 4, 2021 | Dr. Joanne White |  | Remote Sensing of Environment | @Joanne_C_White | White 2021 |  
- 65 | Jan 11, 2021 | Dr. Dawn Wright |  | Oceanography | @deepseadawn | Wright 2017 |  
+ 51 | Oct 5, 2020 | Karen Chen |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304697?via%3Dihub)  |[@THKarenChen](http://www.twitter.com/THKarenChen) |[Chen 2020](https://twitter.com/LadiesOfLandsat/status/1313116105507041282?s=20) |  
+ 52 | Oct 12, 2020 | Dr. Karen Bailey |  | [Journal of Land Use Science](https://www.researchgate.net/profile/Christa_Zweig/publication/282217725_Land-cover_change_within_and_around_protected_areas_in_a_biodiversity_hotspot/links/5607ff4908aeb5718ff9c10c.pdf)  |[@karnebe](http://www.twitter.com/karnebe) |[Bailey 2015](https://twitter.com/LadiesOfLandsat/status/1315654817625317377?s=20) |  
+ 53 | Oct 19, 2020 | Dr. Laura Duncanson |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425720301498)   |[@LauraDuncanson](http://www.twitter.com/LauraDuncanson) |[Duncanson 2020](https://twitter.com/LadiesOfLandsat/status/1318188151471509509?s=20) 2020 |  
+ 54 | Oct 26, 2020 | Dr. Vanessa Brum-Bastos |  | [Ecological Informatics](https://www.sciencedirect.com/science/article/pii/S1574954120300996?dgcid=author)  |[@VanessaBBastos](http://www.twitter.com/VanessaBBastos) |[Brum-Bastos 2020](https://twitter.com/LadiesOfLandsat/status/1320722027720941568?s=20) 2020 |  
+ 55 | Nov 2, 2020 | Mary K. Bennett |  | [Drones](https://www.mdpi.com/2504-446X/4/3/50)  |[@Katie_Ben91](http://www.twitter.com/Katie_Ben91) |[Bennett 2020](https://twitter.com/LadiesOfLandsat/status/1323252472643751937?s=20) |  
+ 56 | Nov 9, 2020 | Dr. Flavia de Souza Mendes |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/10/1161)  |[@flasmendes](http://www.twitter.com/flasmendes) |[de Souza Mendes 2019](https://twitter.com/LadiesOfLandsat/status/1325779736975511552?s=20) |  
+ 57 | Nov 16, 2020 | Dr. Alicia Caruso |  | [Australian Journal of Earth Sciences](https://www.tandfonline.com/doi/abs/10.1080/08120099.2020.1826122?journalCode=taje20)  |[@aliciascaruso](http://www.twitter.com/aliciascaruso) |[Caruso 2020](https://twitter.com/LadiesOfLandsat/status/1328118618526281730?s=20) |  
+ 58 | Nov 23, 2020 | Dr. Di Yang |  | [Geo-spatial Information Science](https://www.tandfonline.com/doi/pdf/10.1080/10095020.2017.1371385)  |[@yangdi1031](http://www.twitter.com/yangdi1031) |[Yang 2017](https://twitter.com/LadiesOfLandsat/status/1330879180918169602?s=20) |  
+ 59 | Nov 30, 2020 | Dr. Raechel Portelli |  | [GIScience & Remote Sensing](https://www.tandfonline.com/doi/full/10.1080/15481603.2016.1196424?casa_token=0i6zYQaJEmYAAAAA:Ux59dZjbF73yAnmbovyXfMcRa4q-gSci2Os1OFejp9UDaOgWg2Ktusy0BYSL2t82pNX_2xJ1VRfbad0)  |[@CurmudgeonPhD](http://www.twitter.com/CurmudgeonPhD) |[Portelli 2015](https://twitter.com/LadiesOfLandsat/status/1333411621209858048?s=20) |  
+ 60 | Dec 7, 2020 | Dr. Xiaoxiang Zhu |  | [Remote Sensing](https://www.mdpi.com/2072-4292/10/9/1374/htm)  |[@xiaoxiang_zhu](http://www.twitter.com/xiaoxiang_zhu) |[Zhu 2018](https://twitter.com/LadiesOfLandsat/status/1335947850950340610?s=20) |  
+ 61 | Dec 14, 2020 | Chippie Kislik |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/20/3332)   |[@chippiekizzle](http://www.twitter.com/chippiekizzle) |[Kislik 2020](https://twitter.com/LadiesOfLandsat/status/1338482503804391425?s=20) |  
+ 62 | Dec 21, 2020 | Dr. Priyanka deSouza |  | [Atmospheric Measurement Techniques](https://amt.copernicus.org/articles/13/5319/2020/)  |[@PDez90](http://www.twitter.com/PDez90) |[deSouza 2020](https://twitter.com/LadiesOfLandsat/status/1341004671100592129?s=20) |  
+ 63 | Dec 28, 2020 | 2020 MM Moments Thread |  | [2020 MM](https://twitter.com/i/events/1341125452728045577?s=20) |  |  |  
+ 64 | Jan 4, 2021 | Dr. Joanne White |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425720305423)   |[@Joanne_C_White](http://www.twitter.com/Joanne_C_White) |[White 2021](https://twitter.com/LadiesOfLandsat/status/1346107589319421959?s=20) |  
+ 65 | Jan 11, 2021 | Dr. Dawn Wright |  | [Oceanography](https://www.researchgate.net/profile/Dawn_Wright5/publication/317409531_Swells_Soundings_and_Sustainability_butHere_Be_Monsters/links/59adaedaa6fdcce55a416a2e/Swells-Soundings-and-Sustainability-butHere-Be-Monsters.pdf)   |[@deepseadawn](http://www.twitter.com/deepseadawn) |[Wright 2017](https://twitter.com/LadiesOfLandsat/status/1348646354214674434?s=20) |  
  66 | Jan 18, 2021 | Dr. Meredith Brown |  | Remote Sensing | @mglbrown | Brown 2020 |  
  67 | Jan 25, 2021 | Charmaine Cruz |  | International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences | @charmcharmcruz | Cruz 2019 |  
  68 | Feb 1, 2021 | Dr. Louise Leroux |  | European Journal of Agronomy | @LerouxLouise4 | Leroux 2019 |  
