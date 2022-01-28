@@ -105,26 +105,26 @@ Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
  93 | August 2, 2021 | Dr. Laura Chasmer |  | [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075488)   |[@ErsPeat](http://www.twitter.com/ErsPeat) |[Chasmer 2017](https://twitter.com/LadiesOfLandsat/status/1422182954940477442?s=20) |  
  94 | August 9, 2021 | Gizem Şenel |  | [Desalination and Water Treatment](https://www.deswater.com/DWT_articles/vol_177_papers/177_2020_330.pdf)   |[@GizemSenel](http://www.twitter.com/GizemSenel) |[Senel 2019](https://twitter.com/LadiesOfLandsat/status/1424708406045253636?s=20) |  
  95 | August 16, 2021 | Dr. Emma Li Johansson |  | [Ambio](https://link.springer.com/article/10.1007/s13280-019-01226-6)   |[@emmalijohansson](http://www.twitter.com/emmalijohansson) |[Johansson & Abdi 2020](https://twitter.com/LadiesOfLandsat/status/1427260980770361348?s=20) |  
- 96 | August 23, 2021 | Dr. Cibele Hummel do Amaral |  | Remote Sensing of Environment | @CibeleHdoAmaral | do Amaral 2018 |  
- 97 | August 30, 2021 | Zoe Pierrat |  | JGR Biogeosciences | @zoeapie | Pierrat 2021 |  
- 98 | September 6, 2021 | Rabia Kahn |  | XXIV ISPRS Congress | @MunsafRabia | Khan 2021 |  
- 99 | September 13, 2021 | Dr. Catherine Champagne |  | Remote Sensing | @cathchampagne | Champagne 2019 |  
- 100 | September 20, 2021 | Mahsa Khodaee |  | Remote Sensing | @mahsa_khodaee | Khodaee 2020 |  
- 101 | Sept 27, 2021 | EO Scientist Landsat 9 Trading Card Deck |  | L9 Cards |  |  |  
- 102 | October 4, 2021 | Dr. María Fernández-Giménez and Dr. Ginger Allington |  | Environmental Research Letters | @gigi_rose | Fernández-Giménez 2018 |  
- 103 | October 11, 2021 | Dr. Milto Miltiadou |  | Remote Sensing | @DrMiltiadou | Miltiadou 2021 |  
- 104 | October 18, 2021 | Emily C. Adams |  | Frontiers in Climate | @emily4eo | Adams 2021 |  
- 105 | October 25, 2021 | Gina Maskell |  | Remote Sensing of Environment | @GinaMask | Maskell 2021 |  
- 106 | November 1, 2021 | Dr. Angela Kross |  | Remote Sensing | @angela_kross | Kross 2020 |  
- 107 | November 8, 2021 | Bogumila Backiel |  | Scholarworks at UMass Amherst | @bobackiel | Backiel 2018 |  
- 108 | November 15, 2021 | Dr. Meghan Halabisky |  | Remote Sensing | @mhalabisky1 | Halabisky 2018 |  
- 109 | November 22, 2021 | Dr. Swanni Alvarado |  | Global Ecology and Biogeography | @SwanniAlvarado | Alvarado 2020 |  
- 110 | November 29, 2021 | Dr. Camile Söthe |  | Geoderma | @SotheCamile | Söthe 2022 |  
- 111 | December 6, 2021 | Dr. Ane Alencar |  | Remote Sensing | @anealencar3 | Alencar 2020 |  
- 112 | December 13, 2021 | Dr. Tahisa Neitzel Kuck |  | Remote Sensing | @tatakuck | Kuck 2021 |  
- 113 | December 20, 2021 | Dr. Michelle Picoli |  | Biofuels, Bioproducts, & Biorefining | @Michelle_Picoli | Picoli 2021 |  
- 114 | Dec 27, 2021 | 2021 MM Moments Thread |  | 2021 MM |  |  |  
- 115 | January 3, 2022 | Dr. Jessica McCarty |  | Biogeosciences | @jmccarty_geo | McCarty 2021 |  
- 116 | January 10, 2022 | Katja Kowalski |  | Remote Sensing of Environment | @katja_kowalski | Kowalski 2022 |  
- 117 | January 17, 2022 | Dr. Kiana Zolfaghari |  | IEEE Transactions on Geoscience and Remote Sensing | @KianaZol | Zolfaghari 2021 |  
- 118 | January 24, 2022 | Alexandra Runge |  | Remote Sensing of Environment | @RungeAlexandra | Runge 2022 |  
+ 96 | August 23, 2021 | Dr. Cibele Hummel do Amaral |  | [Remote Sensing of Environment](http://repositorio.unicamp.br/bitstream/REPOSIP/354013/1/000445990100027.pdf)   |[@CibeleHdoAmaral](http://www.twitter.com/CibeleHdoAmaral) |[do Amaral 2018](https://twitter.com/LadiesOfLandsat/status/1429778291586633738?s=20) |  
+ 97 | August 30, 2021 | Zoe Pierrat |  | [JGR Biogeosciences](https://www.researchgate.net/publication/350759662_Tower-Based_Remote_Sensing_Reveals_Mechanisms_Behind_a_Two-phased_Spring_Transition_in_a_Mixed-Species_Boreal_Forest)   |[@zoeapie](http://www.twitter.com/zoeapie) |[Pierrat 2021](https://twitter.com/LadiesOfLandsat/status/1432325932468129792?s=20) |  
+ 98 | September 6, 2021 | Rabia Kahn |  | [XXIV ISPRS Congress](https://www.researchgate.net/publication/352497741_WATER_QUALITY_MONITORING_OVER_FINGER_LAKES_REGION_USING_SENTINEL-2_IMAGERY_ON_GOOGLE_EARTH_ENGINE_CLOUD_COMPUTING_PLATFORM)   |[@MunsafRabia](http://www.twitter.com/MunsafRabia) |[Khan 2021](https://twitter.com/LadiesOfLandsat/status/1434853863408820232?s=20) |  
+ 99 | September 13, 2021 | Dr. Catherine Champagne |  | [Remote Sensing](https://www.mdpi.com/2072-4292/11/4/372/htm)   |[@cathchampagne](http://www.twitter.com/cathchampagne) |[Champagne 2019](https://twitter.com/LadiesOfLandsat/status/1437399222719025153?s=20) |  
+ 100 | September 20, 2021 | Mahsa Khodaee |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/15/2412)   |[@mahsa_khodaee](http://www.twitter.com/mahsa_khodaee) |[Khodaee 2020](https://twitter.com/LadiesOfLandsat/status/1439941120973320193?s=20) |  
+ 101 | Sept 27, 2021 | EO Scientist Landsat 9 Trading Card Deck |  | []()  |[]() |[L9 Cards](https://twitter.com/LadiesOfLandsat/status/1442512777076252677?s=20)|  
+ 102 | October 4, 2021 | Dr. María Fernández-Giménez and Dr. Ginger Allington |  | [Environmental Research Letters](https://iopscience.iop.org/article/10.1088/1748-9326/aacf6f/meta)   |[@gigi_rose](http://www.twitter.com/gigi_rose) |[Fernández-Giménez 2018](https://twitter.com/LadiesOfLandsat/status/1445012723981594630?s=20) |  
+ 103 | October 11, 2021 | Dr. Milto Miltiadou |  | [Remote Sensing](https://www.mdpi.com/2072-4292/13/4/559)   |[@DrMiltiadou](http://www.twitter.com/DrMiltiadou) |[Miltiadou 2021](https://twitter.com/LadiesOfLandsat/status/1447541748054564872?s=20) |  
+ 104 | October 18, 2021 | Emily C. Adams |  | [Frontiers in Climate](https://www.frontiersin.org/articles/10.3389/fclim.2021.714273/full)   |[@emily4eo](http://www.twitter.com/emily4eo) |[Adams 2021](https://twitter.com/LadiesOfLandsat/status/1450079995829932038?s=20) |  
+ 105 | October 25, 2021 | Gina Maskell |  | [Remote Sensing of Environment](https://doi.org/10.1016/j.rse.2021.112709)   |[@GinaMask](http://www.twitter.com/GinaMask) |[Maskell 2021](https://twitter.com/LadiesOfLandsat/status/1452615913971359744?s=20) |  
+ 106 | November 1, 2021 | Dr. Angela Kross |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/14/2230/htm)   |[@angela_kross](http://www.twitter.com/angela_kross) |[Kross 2020](https://twitter.com/LadiesOfLandsat/status/1455147086115184641?s=20) |  
+ 107 | November 8, 2021 | Bogumila Backiel |  | [Scholarworks at UMass Amherst](https://scholarworks.umass.edu/masters_theses_2/597/)   |[@bobackiel](http://www.twitter.com/bobackiel) |[Backiel 2018](https://twitter.com/LadiesOfLandsat/status/1457705492248150020?s=20) |  
+ 108 | November 15, 2021 | Dr. Meghan Halabisky |  | [Remote Sensing](https://www.mdpi.com/2072-4292/10/9/1467/htm)   |[@mhalabisky1](http://www.twitter.com/mhalabisky1) |[Halabisky 2018](https://twitter.com/LadiesOfLandsat/status/1460248566027403273?s=20) |  
+ 109 | November 22, 2021 | Dr. Swanni Alvarado |  | [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13034)   |[@SwanniAlvarado](http://www.twitter.com/SwanniAlvarado) |[Alvarado 2020](https://twitter.com/LadiesOfLandsat/status/1462779313930047488?s=20) |  
+ 110 | November 29, 2021 | Dr. Camile Söthe |  | [Geoderma](https://www.sciencedirect.com/science/article/pii/S0016706121004821)   |[@SotheCamile](http://www.twitter.com/SotheCamile) |[Söthe 2022](https://twitter.com/LadiesOfLandsat/status/1465316289908551690?s=20) |  
+ 111 | December 6, 2021 | Dr. Ane Alencar |  | [Remote Sensing](https://www.mdpi.com/2072-4292/12/6/924)   |[@anealencar3](http://www.twitter.com/anealencar3) |[Alencar 2020](https://twitter.com/LadiesOfLandsat/status/1467856179695079427?s=20) |  
+ 112 | December 13, 2021 | Dr. Tahisa Neitzel Kuck |  | [Remote Sensing](https://www.mdpi.com/2072-4292/13/23/4944/htm)   |[@tatakuck](http://www.twitter.com/tatakuck) |[Kuck 2021](https://twitter.com/LadiesOfLandsat/status/1470390158218477574?s=20) |  
+ 113 | December 20, 2021 | Dr. Michelle Picoli |  | [Biofuels, Bioproducts, & Biorefining](https://onlinelibrary.wiley.com/doi/10.1002/bbb.2270)   |[@Michelle_Picoli](http://www.twitter.com/Michelle_Picoli) |[Picoli 2021](https://twitter.com/LadiesOfLandsat/status/1472923548062818305?s=20) |  
+ 114 | Dec 27, 2021 | 2021 MM Moments Thread |  | 2021 MM |[2021 MM](https://twitter.com/LadiesOfLandsat/status/1475473380044328960?s=20)  |  |  
+ 115 | January 3, 2022 | Dr. Jessica McCarty |  | [Biogeosciences](https://bg.copernicus.org/articles/18/5053/2021/bg-18-5053-2021.pdf)   |[@jmccarty_geo](http://www.twitter.com/jmccarty_geo) |[McCarty 2021](https://twitter.com/LadiesOfLandsat/status/1478010368807026691?s=20) |  
+ 116 | January 10, 2022 | Katja Kowalski |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425721005010)   |[@katja_kowalski](http://www.twitter.com/katja_kowalski) |[Kowalski 2022](https://twitter.com/LadiesOfLandsat/status/1480539907152138240?s=20) |  
+ 117 | January 17, 2022 | Dr. Kiana Zolfaghari |  | [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570275)   |[@KianaZol](http://www.twitter.com/KianaZol) |[Zolfaghari 2021](https://twitter.com/LadiesOfLandsat/status/1483077092778680324?s=20) |  
+ 118 | January 24, 2022 | Alexandra Runge |  | [Remote Sensing of Environment](https://www.sciencedirect.com/science/article/pii/S0034425721004727#fig0045) |[@RungeAlexandra](http://www.twitter.com/RungeAlexandra) |[Runge 2022](https://twitter.com/LadiesOfLandsat/status/1485625873021689859?s=20) |  
