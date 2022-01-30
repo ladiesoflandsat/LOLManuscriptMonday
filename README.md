@@ -3,13 +3,12 @@
 
 This repo is to hold the links to the Ladies of Landsat Manuscript Monday series.
  
-<p align="center">
+<p align="left">
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
 </p>
 
-<p align="center">
+
 Manuscript Monday is a weekly Twitter series featuring recently published, cutting-edge research led by gender minorities in the field of remote sensing.
-</p>
   
 Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 
