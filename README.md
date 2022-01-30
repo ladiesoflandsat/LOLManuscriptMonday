@@ -8,7 +8,9 @@ This repo is to hold the links to the Ladies of Landsat Manuscript Monday series
 
 Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 
- **Week** | **Date** | **Name** |          **Article Title**          | **Article Link** | **Twitter Handle** | **MM Tweet** |          **Key Words**           
+Want to nominate an article for us to feature? [Fill out this form!] (https://forms.gle/5g1Qrmp7229qJDLZ6)
+
+ **Week** | **Date** | **Name** | **Article Title** | **Article Link** | **Twitter Handle** | **MM Tweet** | **Key Words** 
 ---|---|---|---|---|---|---|---
  1 | Oct 21, 2019 | Dr. Keiko Nomura | _Oil palm concessions in southern Myanmar consist mostly of unconverted forest_ | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3)  | [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | forest, deforestation, rubber plantations, Sentinel-1, Sentinel-2, SAR, SRTM, high resolution |
  2 | Oct 28, 2019 | Dr. Catherine Nakalembe | _Characterizing agricultural drought in the Karamoja subregion of Uganda with meteorological and satellite-based indices_  |[Natural Hazards](https://link.springer.com/article/10.1007/s11069-017-3106-x)|[@CLNakalembe](http://www.twitter.com/CLNakalembe) |[Nakalembe 2019](https://twitter.com/LadiesOfLandsat/status/1188832795201720322?s=20) |  agricultural drought, NDVI, SPI, remote sensing, Karamoja, East Africa |
