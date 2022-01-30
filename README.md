@@ -8,7 +8,7 @@ This repo is to hold the links to the Ladies of Landsat Manuscript Monday series
 
 Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 
-Want to nominate an article for us to feature? [Fill out this form!] (https://forms.gle/5g1Qrmp7229qJDLZ6)
+Want to nominate an article for us to feature? [Fill out this form!](https://forms.gle/5g1Qrmp7229qJDLZ6)
 
  **Week** | **Date** | **Name** | **Article Title** | **Article Link** | **Twitter Handle** | **MM Tweet** | **Key Words** 
 ---|---|---|---|---|---|---|---
