@@ -3,18 +3,17 @@
 
 <p align="center">
 This repo is to hold the links to the Ladies of Landsat Manuscript Monday series.
-</p>
-  
-<p align="center">
+
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
-</p>
+
 
 Manuscript Monday is a weekly Twitter series featuring recently published, cutting-edge research led by gender minorities in the field of remote sensing.
 
 Find us on twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat)!!
 
 Want to nominate an article for us to feature in the future? [Fill out this form!](https://forms.gle/5g1Qrmp7229qJDLZ6)
-
+</p>
+  
  **Week** | **Date** | **Name** | **Article Title** | **Article Link** | **Twitter Handle** | **MM Tweet** | **Key Words** 
 ---|---|---|---|---|---|---|---
  1 | Oct 21, 2019 | Dr. Keiko Nomura | _Oil palm concessions in southern Myanmar consist mostly of unconverted forest_ | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3)  | [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | forest, deforestation, rubber plantations, Sentinel-1, Sentinel-2, SAR, SRTM, high resolution |
