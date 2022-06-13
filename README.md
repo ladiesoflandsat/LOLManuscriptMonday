@@ -9,7 +9,7 @@ Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently pub
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
 </p>
   
-**Find us on Twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat) and on LinkedIn, [Ladies of Landsat](https://ca.linkedin.com/company/ladies-of-landsat)!!**
+**Find us on Twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat), and on LinkedIn, [Ladies of Landsat](https://ca.linkedin.com/company/ladies-of-landsat)!!**
 
 **Want to nominate an article for us to feature in the future? [Fill out this form!](https://forms.gle/5g1Qrmp7229qJDLZ6)**
 
