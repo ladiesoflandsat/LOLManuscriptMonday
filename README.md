@@ -1,7 +1,7 @@
 
 # LOLManuscriptMonday
 
-**This repo is to hold the links to the Ladies of Landsat Manuscript Monday series.**
+**This repo is to hold the links to the Manuscript Monday series led by Ladies of Landsat.**
 
 Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently published, cutting-edge research led by underrepresented scientists in the field of remote sensing.
 
