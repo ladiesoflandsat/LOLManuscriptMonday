@@ -3,7 +3,7 @@
 
 **This repo is to hold the links to the Ladies of Landsat Manuscript Monday series.**
 
-Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently published, cutting-edge research led by gender minorities in the field of remote sensing.
+Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently published, cutting-edge research led by underrepresented scientists in the field of remote sensing.
 
 Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCrowley), and over the years has received contributions from Flávia de Souza Mendes, Michelle Stuhlmacher, Agnes Faulkner, and Sheryl Rose Reyes. Currently in Fall 2022, Morgan, Flávia and Sheryl are the main contributors. 
  
