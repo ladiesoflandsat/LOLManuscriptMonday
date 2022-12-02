@@ -29,13 +29,10 @@ jobs:
           script: |
             import json
             from datetime import datetime
-
             import pandas as pd
             import requests
             from bs4 import BeautifulSoup
-
             today = str(datetime.today().strftime("%Y-%m-%d"))
-
 
             def readme_parse():
                 # use pandas to convert url to list
@@ -73,7 +70,7 @@ jobs:
                 with open(f"LOLMondayManuscriptList_{today}.json", "w") as f:
                     f.write(json.dumps(json.loads(df2), indent=2))
       - name: commit files
-        continue-on-error: true
+        continue-on-error: false
         run: |
           today=$(date +"%Y-%m-%d")
           git config --local user.email "action@github.com"
