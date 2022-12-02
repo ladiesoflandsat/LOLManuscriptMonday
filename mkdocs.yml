@@ -8,12 +8,11 @@ repo_name: LOLManuscriptMonday
 repo_url: https://github.com/ladiesoflandsat/LOLManuscriptMonday
 
 # Copyright
-copyright: 'Copyright &copy; 2022 - 2023 Ladies of Landsat'
-
+copyright: "Copyright &copy; 2022 - 2023 Ladies of Landsat"
 
 # Configuration
 theme:
-  name: 'material'
+  name: "material"
 
   # 404 page
   static_templates:
@@ -42,7 +41,7 @@ theme:
     text: Google Sans
     code: Regular
   favicon: assets/favicon.png
-  logo: 'https://raw.githubusercontent.com/ladiesoflandsat/LOLManuscriptMonday/main/lol.jpg'
+  logo: "https://raw.githubusercontent.com/ladiesoflandsat/LOLManuscriptMonday/main/lol.jpg"
 
 # Options
 extra:
@@ -64,9 +63,9 @@ extra_javascript:
   - javascripts/tablesort.js
 
 plugins:
-    - search
-    - minify:
-        minify_html: true
+  - search
+  - minify:
+      minify_html: true
 
 # Extensions
 markdown_extensions:
@@ -111,8 +110,6 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-
-
 # Page tree
 nav:
-  - Introduction: index.md
+  - Introduction: README.md
