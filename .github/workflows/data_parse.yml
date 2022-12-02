@@ -8,13 +8,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
-          python-version: "3.10" # install the python version needed
+          python-version: '3.8'
 
       - name: upgrade pip and install python packages
         run: |
@@ -70,6 +67,7 @@ jobs:
                 print(df2)
                 with open(f"LOLMondayManuscriptList_{today}.json", "w") as f:
                     f.write(json.dumps(json.loads(df2), indent=2))
+            readme_parse()
       - name: commit files
         continue-on-error: false
         run: |
