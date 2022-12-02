@@ -1,5 +1,6 @@
-
 # LOLManuscriptMonday
+
+[![manuscript_export](https://github.com/ladiesoflandsat/LOLManuscriptMonday/actions/workflows/data_parse.yml/badge.svg)](https://github.com/ladiesoflandsat/LOLManuscriptMonday/actions/workflows/data_parse.yml)
 
 **This repo is to hold the links to the Manuscript Monday series led by Ladies of Landsat.**
 
