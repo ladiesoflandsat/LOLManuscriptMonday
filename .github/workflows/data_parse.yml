@@ -67,6 +67,7 @@ jobs:
 
                 df.to_csv(f"LOLMondayManuscriptList_{today}.csv", index=False, encoding="utf-8-sig")
                 df2 = df.to_json(orient="records", indent=2)
+                print(df2)
                 with open(f"LOLMondayManuscriptList_{today}.json", "w") as f:
                     f.write(json.dumps(json.loads(df2), indent=2))
       - name: commit files
