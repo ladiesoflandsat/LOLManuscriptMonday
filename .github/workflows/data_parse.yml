@@ -70,7 +70,7 @@ jobs:
                     f.write(json.dumps(json.loads(df2), indent=2))
             readme_parse()
       - name: commit files
-        continue-on-error: false
+        continue-on-error: true
         run: |
           today=$(date +"%Y-%m-%d")
           git config --local user.email "action@github.com"
