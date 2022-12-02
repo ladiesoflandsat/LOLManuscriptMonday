@@ -1,4 +1,4 @@
-name: manuscript_catalog
+name: manuscript_export
 on:
   push:
     branches:
@@ -63,10 +63,10 @@ jobs:
                 for link_col in columns_url:
                     df[link_col] = df[link_col].map(lambda short_link: f"{short_link}")
 
-                df.to_csv(f"LOLMondayManuscriptList_{today}.csv", index=False, encoding="utf-8-sig")
+                df.to_csv(f"LOLMonday_{today}.csv", index=False, encoding="utf-8-sig")
                 df2 = df.to_json(orient="records", indent=2)
-                print(df2)
-                with open(f"LOLMondayManuscriptList_{today}.json", "w") as f:
+                print(json.dumps(json.loads(df2), indent=2))
+                with open(f"LOLMonday_{today}.json", "w") as f:
                     f.write(json.dumps(json.loads(df2), indent=2))
             readme_parse()
       - name: commit files
