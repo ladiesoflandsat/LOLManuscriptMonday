@@ -8,7 +8,7 @@ Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently pub
 Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCrowley), and over the years has received contributions from Flávia de Souza Mendes, Michelle Stuhlmacher, Agnieszka Faulkner, Sheryl Rose Reyes, and Matilda Anokye. Currently in November 2022, Morgan, Flávia, Sheryl, and Matilda are the main contributors.
 
 <p align="center">
-  <img width="300" height="300" src="lol.jpg?w=300&h=300">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/ladiesoflandsat/LOLManuscriptMonday/main/lol.jpg">
 </p>
 
 **Find us on Twitter, [@Ladies of Landsat](https://twitter.com/LadiesOfLandsat), [Mastadon](https://mapstodon.space/@LadiesOfLandsat) and on LinkedIn, [Ladies of Landsat](https://ca.linkedin.com/company/ladies-of-landsat)!!**
