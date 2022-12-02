@@ -1,0 +1,88 @@
+name: manuscript_catalog
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.7.7" # install the python version needed
+
+      - name: upgrade pip and install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U pip setuptools
+          pip install requests
+          pip install beautifulsoup4
+          pip install pandas
+      - name: output_render
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import json
+            from datetime import datetime
+
+            import pandas as pd
+            import requests
+            from bs4 import BeautifulSoup
+
+            today = str(datetime.today().strftime("%Y-%m-%d"))
+
+
+            def readme_parse():
+                # use pandas to convert url to list
+                url = "https://github.com/ladiesoflandsat/LOLManuscriptMonday/blob/main/README.md"
+                url_info = pd.read_html(url)
+                # convert to dataframe
+                df = url_info[0]
+                response = requests.get(url)
+                soup = BeautifulSoup(response.text, "html.parser")
+                table = soup.find("table")
+
+                links = []
+                for tr in table.findAll("tr"):
+                    trs = tr.findAll("td")
+                    for each in trs:
+                        try:
+                            link = each.find("a")["href"]
+                            links.append(link)
+                        except Exception as error:
+                            pass
+
+                length_links = len(links) // 3
+                result = [links[i::3] for i in range(length_links)]
+
+                columns_url = ["link_article", "link_handle", "link_tweet"]
+                df_links = pd.DataFrame(columns=columns_url)
+                for i in range(length_links):
+                    df_links.loc[i] = result[0][i], result[1][i], result[2][i]
+                df = pd.concat([df, df_links], axis=1)
+                for link_col in columns_url:
+                    df[link_col] = df[link_col].map(lambda short_link: f"{short_link}")
+
+                df.to_csv(f"LOLMondayManuscriptList_{today}.csv", index=False, encoding="utf-8-sig")
+                df2 = df.to_json(orient="records", indent=2)
+                with open(f"LOLMondayManuscriptList_{today}.json", "w") as f:
+                    f.write(json.dumps(json.loads(df2), indent=2))
+      - name: commit files
+        continue-on-error: true
+        run: |
+          today=$(date +"%Y-%m-%d")
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "updated datasets ${today} UTC" -a
+      - name: push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
