@@ -2166,9 +2166,9 @@
     "Twitter Handle": null,
     "MM Tweet": "BBC Mundo feature of Virginia Norwood Feature",
     "Key Words": null,
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://twitter.com/marta_sapena",
+    "link_handle": "https://twitter.com/LadiesOfLandsat/status/1620078921487388672?s=20",
+    "link_tweet": "https://pubs.er.usgs.gov/publication/ofr20191112"
   },
   {
     "Week": 168,
@@ -2218,6 +2218,19 @@
     "Twitter Handle": "@marta_sapena",
     "MM Tweet": "Sapena 2022",
     "Key Words": "land use, population density, census, statistical methods, cities, statistical data, machine learning, urban areas",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 171,
+    "Date": "February 6, 2023",
+    "Name": "Dr. Crista Straub",
+    "Article Title": "Economic Valuation of Landsat Imagery",
+    "Article Link": "USGS Publications Warehouse",
+    "Twitter Handle": "@cstraubresearch",
+    "MM Tweet": "Straub 2019",
+    "Key Words": "Landsat, economic value, imagery",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
