@@ -2114,9 +2114,9 @@
     "Twitter Handle": null,
     "MM Tweet": "Tweet",
     "Key Words": null,
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://twitter.com/LadiesOfLandsat/status/1604918865565286414?s=20",
+    "link_handle": "https://twitter.com/srcreyes",
+    "link_tweet": "https://twitter.com/LadiesOfLandsat/status/1607384369827614720?s=20"
   },
   {
     "Week": 164,
@@ -2127,9 +2127,9 @@
     "Twitter Handle": "@KKTilda",
     "MM Tweet": "Matilda Anokye Feature",
     "Key Words": null,
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://twitter.com/LadiesOfLandsat/status/1610264257295171585?s=20",
+    "link_handle": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.16567",
+    "link_tweet": "https://twitter.com/morganahcrowley"
   },
   {
     "Week": 165,
@@ -2140,6 +2140,58 @@
     "Twitter Handle": null,
     "MM Tweet": "Sarah Schenkein Feature",
     "Key Words": null,
+    "link_article": "https://twitter.com/LadiesOfLandsat/status/1612453253421072384?s=20",
+    "link_handle": "https://www.sciencedirect.com/science/article/abs/pii/S235293852200057X",
+    "link_tweet": "https://twitter.com/LadiesOfLandsat/status/1614933224899371008?s=20"
+  },
+  {
+    "Week": 166,
+    "Date": "December 26, 2022",
+    "Name": "LoL Leadership Feature of Sheryl Rose Reyes",
+    "Article Title": null,
+    "Article Link": null,
+    "Twitter Handle": "@srcreyes",
+    "MM Tweet": "Sheryl Rose Reyes Feature",
+    "Key Words": null,
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 167,
+    "Date": "January 2, 2023",
+    "Name": "Happy New Year 2023 Post",
+    "Article Title": "Virginia Norwood, la \"madre del Landsat\" que revolucion\u00f3 la observaci\u00f3n de la Tierra desde el espacio",
+    "Article Link": null,
+    "Twitter Handle": null,
+    "MM Tweet": "BBC Mundo feature of Virginia Norwood Feature",
+    "Key Words": null,
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 168,
+    "Date": "January 9, 2023",
+    "Name": "Dr. Morgan Crowley",
+    "Article Title": "Towards a whole-system framework for wildfire monitoring using Earth observations",
+    "Article Link": "Global Change Biology",
+    "Twitter Handle": "@morganahcrowley",
+    "MM Tweet": "Crowley 2022",
+    "Key Words": "complex systems, Earth observations, fire monitoring, forest fires, pyrogeography, remote sensing, wildfires",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 169,
+    "Date": "January 16, 2023",
+    "Name": "Dr. Ana Cl\u00e1udia dos Santos Luciano",
+    "Article Title": "Mapping 33 years of sugarcane evolution in S\u00e3o Paulo state, Brazil, using landsat imagery and generalized space-time classifiers",
+    "Article Link": "Remote Sensing Applications: Society and Environment",
+    "Twitter Handle": null,
+    "MM Tweet": "dos Santos Luciano 2022",
+    "Key Words": "Landsat, sugarcane, Brazil, space-time classifiers, multi-source, machine learning, random forest",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
