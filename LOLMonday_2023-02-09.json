@@ -2153,9 +2153,9 @@
     "Twitter Handle": "@srcreyes",
     "MM Tweet": "Sheryl Rose Reyes Feature",
     "Key Words": null,
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://spj.science.org/doi/10.34133/remotesensing.0003",
+    "link_handle": "https://twitter.com/LadiesOfLandsat/status/1617454724399202304?s=20",
+    "link_tweet": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274504"
   },
   {
     "Week": 167,
@@ -2192,6 +2192,32 @@
     "Twitter Handle": null,
     "MM Tweet": "dos Santos Luciano 2022",
     "Key Words": "Landsat, sugarcane, Brazil, space-time classifiers, multi-source, machine learning, random forest",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 170,
+    "Date": "January 23, 2023",
+    "Name": "Carmen Morales",
+    "Article Title": "Earth Map: A Novel Tool for Fast Performance of Advanced Land Monitoring and Climate Assessment",
+    "Article Link": "Journal of Remote Sensing",
+    "Twitter Handle": null,
+    "MM Tweet": "Morales 2023",
+    "Key Words": "Earth Map, Google Earth Engine, analysis platform, datasets, software architecture",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 171,
+    "Date": "January 30, 2023",
+    "Name": "Dr. Marta Sapena",
+    "Article Title": "Empiric recommendations for population disaggregation under different data scenarios",
+    "Article Link": "Plos One",
+    "Twitter Handle": "@marta_sapena",
+    "MM Tweet": "Sapena 2022",
+    "Key Words": "land use, population density, census, statistical methods, cities, statistical data, machine learning, urban areas",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
