@@ -2231,9 +2231,9 @@
     "Twitter Handle": "@cstraubresearch",
     "MM Tweet": "Straub 2019",
     "Key Words": "Landsat, economic value, imagery",
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://twitter.com/LadiesOfLandsat/status/1635318117281968131?s=20",
+    "link_handle": "https://www.sciencedirect.com/science/article/pii/S0034425717306193#s0020",
+    "link_tweet": "https://twitter.com/OrsoMajor"
   },
   {
     "Week": 172,
@@ -2283,6 +2283,19 @@
     "Twitter Handle": "@DrKJoyce",
     "MM Tweet": "Joyce 2022",
     "Key Words": "diversity, equity, inclusion, remote sensing, editorial boards, publications",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 176,
+    "Date": "May 1, 2023",
+    "Name": "Dr. Ursa Kanjir",
+    "Article Title": "Vessel detection and classification from spaceborne optical images: A literature survey",
+    "Article Link": "Remote Sensing of Environment",
+    "Twitter Handle": "@OrsoMajor",
+    "MM Tweet": "Kanjir 2018",
+    "Key Words": "vessel detection, vessel classification, sea target detection, object recognition, optical satellite data, maritime domain awareness",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
