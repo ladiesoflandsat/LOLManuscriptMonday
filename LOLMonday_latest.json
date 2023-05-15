@@ -2244,9 +2244,9 @@
     "Twitter Handle": null,
     "MM Tweet": "Molder & Schenkein 2022",
     "Key Words": "Landsat, data ecosystem, values, decision support, societal benefits, qualitative, remote sensing, Earth observation",
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://twitter.com/LadiesOfLandsat/status/1653009558326091777",
+    "link_handle": "https://link.springer.com/article/10.1007/s10980-023-01597-y",
+    "link_tweet": "https://twitter.com/AnaStritih"
   },
   {
     "Week": 173,
@@ -2296,6 +2296,19 @@
     "Twitter Handle": "@OrsoMajor",
     "MM Tweet": "Kanjir 2018",
     "Key Words": "vessel detection, vessel classification, sea target detection, object recognition, optical satellite data, maritime domain awareness",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 177,
+    "Date": "May 15, 2023",
+    "Name": "Dr. Ana Stritih",
+    "Article Title": "Alternative states in the structure of mountain forests across the Alps and the role of disturbance and recovery",
+    "Article Link": "Landscape Ecology",
+    "Twitter Handle": "@AnaStritih",
+    "MM Tweet": "[Stritih 2023](PASTE LINK HERE)",
+    "Key Words": "mountain forests,GEDI, disturbance, basins of attraction, recovery",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
