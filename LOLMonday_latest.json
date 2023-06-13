@@ -2257,9 +2257,9 @@
     "Twitter Handle": "@IleanaCallejas",
     "MM Tweet": "Callejas 2021",
     "Key Words": "diffuse attenuation coefficient, moderate resolution imaging spectroradiometer, remote sensing, water quality, marine traffic, Belize Barrier Reef Reserve System, water clarity",
-    "link_article": "nan",
-    "link_handle": "nan",
-    "link_tweet": "nan"
+    "link_article": "https://bit.ly/Estomata_2019",
+    "link_handle": "https://twitter.com/Trixie_EA",
+    "link_tweet": "https://twitter.com/LadiesOfLandsat/status/1668628236635639809"
   },
   {
     "Week": 174,
@@ -2309,6 +2309,19 @@
     "Twitter Handle": "@AnaStritih",
     "MM Tweet": "[Stritih 2023](PASTE LINK HERE)",
     "Key Words": "mountain forests,GEDI, disturbance, basins of attraction, recovery",
+    "link_article": "nan",
+    "link_handle": "nan",
+    "link_tweet": "nan"
+  },
+  {
+    "Week": 181,
+    "Date": "June 13, 2023",
+    "Name": "Mari Trix Estomata",
+    "Article Title": "Mapping of Forest Cover Extent and Change in the Philippines Using Decision Tree Classification on ALOS-1/2 PALSAR-1/2 Mosaic Data",
+    "Article Link": "Proceedings of the 40th Asian Conference on Remote Sensing)",
+    "Twitter Handle": "@Trixie_EA",
+    "MM Tweet": "[Estomata 2019] (https://twitter.com/LadiesOfLandsat/status/1668628236635639809)",
+    "Key Words": "L-Band SAR, REDD+, Unbiased Area Estimation, Multi-Temporal Speckle Filtering",
     "link_article": "nan",
     "link_handle": "nan",
     "link_tweet": "nan"
