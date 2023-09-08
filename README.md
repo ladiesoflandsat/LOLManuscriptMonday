@@ -6,7 +6,7 @@
 
 Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently published, cutting-edge research led by underrepresented scientists in the field of remote sensing.
 
-Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCrowley), and over the years has received contributions from Flávia de Souza Mendes, Michelle Stuhlmacher, Agnieszka Faulkner, Sheryl Rose Reyes, and Matilda Anokye. Currently in November 2022, Morgan, Flávia, Sheryl, and Matilda are the main contributors.
+Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCrowley), and over the years has received contributions from Flávia de Souza Mendes, Michelle Stuhlmacher, Agnieszka Faulkner, Sheryl Rose Reyes, and Matilda Anokye. Currently in September 2023, Flávia and Sheryl are the main contributors.
 
 <p align="center">
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
