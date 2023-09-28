@@ -21,6 +21,7 @@ jobs:
           pip install beautifulsoup4
           pip install pandas
           pip install lxml
+          pip install html5lib
       - name: output_render
         uses: jannekem/run-python-script-action@v1
         with:
