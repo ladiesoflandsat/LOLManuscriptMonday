@@ -1,12 +1,45 @@
-name: manuscript_export
+name: Deploy and Parse
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Python dependencies
+        run: |
+          pip install \
+            "wheel" \
+            "lxml" \
+            "mkdocs-material" \
+            "cairosvg>=2.5" \
+            "mkdocs-git-committers-plugin-2>=1.1.1" \
+            "mkdocs-git-revision-date-localized-plugin>=1.0" \
+            "mkdocs-minify-plugin>=0.3" \
+            "mkdocs-rss-plugin>=1.2" \
+            "mkdocs-redirects>=1.0" \
+            "pillow<10"
+      - name: Sync markdownn with script
+        run: python mdown_copy.py
+      - name: Deploy documentation
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdocs gh-deploy --force
+          mkdocs --version
   build:
     runs-on: ubuntu-latest
+    needs: deploy
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -26,7 +59,47 @@ jobs:
         uses: jannekem/run-python-script-action@v1
         with:
           script: |
-
+            import csv
+            import json
+            import requests
+            from bs4 import BeautifulSoup
+            
+            url = "https://ladiesoflandsat.github.io/LOLManuscriptMonday/"
+            
+            response = requests.get(url)
+            key_order = ["Week", "Date", "Name","Article Title","Article Link","Twitter Handle","MM Tweet","Key Words"]
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'html.parser')
+                table = soup.find('table')
+            
+                if table:
+                    table_data = []
+                    rows = table.find_all('tr')
+                    headers = [header.text.strip() for header in rows[0].find_all('th')]
+            
+                    for row in rows[1:]:
+                        row_data = {}
+                        columns = row.find_all('td')
+            
+                        for i in range(len(headers)):
+                            row_data[headers[i]] = columns[i].text.strip()
+                        row_data = {key: row_data[key] for key in key_order if key in row_data}
+                        table_data.append(row_data)
+                    with open('sorted_data.json', 'w') as json_file:
+                        json.dump(table_data, json_file, indent=2)
+                    column_headers = key_order
+                    csv_file_name = "output.csv"
+                    with open(csv_file_name, mode="w", newline="", encoding="utf-8") as csv_file:
+                        writer = csv.DictWriter(csv_file, fieldnames=column_headers)
+                        writer.writeheader()
+                        for data in table_data:
+                            writer.writerow(data)
+            
+                    print(f"Data has been written to {csv_file_name}.")
+                else:
+                    print("No table found on the web page.")
+            else:
+                print(f"Failed to fetch web page. Status code: {response.status_code}")
       - name: commit files
         continue-on-error: true
         run: |
