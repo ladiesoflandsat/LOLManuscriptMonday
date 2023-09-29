@@ -60,9 +60,9 @@ def get_markdown_files(dir_path):
                 markdown_files.append(os.path.join(root, file))
     return markdown_files
 
-dir_path = "."
+dir_path = os.getcwd()
 markdown_files = get_markdown_files(dir_path)
-
+print(markdown_files)
 # Print the full paths to all Markdown files.
 for markdown_file in markdown_files:
     if 'docs' in markdown_file:
