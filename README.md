@@ -8,6 +8,8 @@ Manuscript Monday is a weekly Twitter and LinkedIn series featuring recently pub
 
 Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCrowley), and over the years has received contributions from Flávia de Souza Mendes, Michelle Stuhlmacher, Agnieszka Faulkner, Sheryl Rose Reyes, and Matilda Anokye. Currently in September 2023, Flávia and Sheryl are the main contributors.
 
+Automated & maintained by [Samapriya Roy](https://www.linkedin.com/in/samapriya/)
+
 <p align="center">
   <img width="300" height="300" src="lol.jpg?w=300&h=300">
 </p>

@@ -85,10 +85,10 @@ jobs:
                             row_data[headers[i]] = columns[i].text.strip()
                         row_data = {key: row_data[key] for key in key_order if key in row_data}
                         table_data.append(row_data)
-                    with open('sorted_data.json', 'w') as json_file:
+                    with open('LOLMonday_latest.json', 'w') as json_file:
                         json.dump(table_data, json_file, indent=2)
                     column_headers = key_order
-                    csv_file_name = "output.csv"
+                    csv_file_name = "LOLMonday_latest.csv"
                     with open(csv_file_name, mode="w", newline="", encoding="utf-8") as csv_file:
                         writer = csv.DictWriter(csv_file, fieldnames=column_headers)
                         writer.writeheader()
