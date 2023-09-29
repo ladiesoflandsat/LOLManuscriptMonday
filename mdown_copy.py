@@ -53,22 +53,8 @@ def markdown_copy(source_path,target_path):
     else:
         print("Start or end markers not found in the source Markdown.")
 
-def get_markdown_files(dir_path):
-    markdown_files = []
-    for root, dirs, files in os.walk(dir_path):
-        for file in files:
-            if file.endswith(".md"):
-                markdown_files.append(os.path.join(root, file))
-    return markdown_files
-
 dir_path = os.getcwd()
-markdown_files = get_markdown_files(dir_path)
-print(markdown_files)
-# Print the full paths to all Markdown files.
-for markdown_file in markdown_files:
-    if 'docs' in markdown_file:
-        target_file = markdown_file
-    else:
-        source_file = markdown_file
-    print(source_file,target_file)
-    markdown_copy(Path(source_file),Path(target_file))
+source_file = os.path.join(dir_path,'README.md')
+target_file = os.path.join(dir_path,'docs','README.md')
+print(source_file,target_file)
+markdown_copy(Path(source_file),Path(target_file))
