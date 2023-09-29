@@ -16,7 +16,7 @@ Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCr
 
 **Want to nominate an article for us to feature in the future? [Fill out this form!](https://forms.gle/5g1Qrmp7229qJDLZ6)**
 
-
+<!-- START_MARKER -->
  **Week** | **Date** | **Name** | **Article Title** | **Article Link** | **Twitter Handle** | **MM Tweet** | **Key Words**
 ---|---|---|---|---|---|---|---
  1 | Oct 21, 2019 | Dr. Keiko Nomura | _Oil palm concessions in southern Myanmar consist mostly of unconverted forest_ | [Scientific Reports](https://www.nature.com/articles/s41598-019-48443-3)  | [@Keiko_geo](http://www.twitter.com/Keiko_geo) |[Nomura 2019](https://twitter.com/LadiesOfLandsat/status/1186296231892533249?s=20) | forest, deforestation, rubber plantations, Sentinel-1, Sentinel-2, SAR, SRTM, high resolution |
@@ -199,3 +199,4 @@ Manuscript Monday was founded by [Morgan Crowley](https://twitter.com/MorganAHCr
 177 | May 15, 2023 | Dr. Ana Stritih | _Alternative states in the structure of mountain forests across the Alps and the role of disturbance and recovery_ | [Landscape Ecology](https://link.springer.com/article/10.1007/s10980-023-01597-y) | [@AnaStritih](https://twitter.com/AnaStritih) | [Stritih 2023](PASTE LINK HERE) | mountain forests,GEDI, disturbance, basins of attraction, recovery |
 181 | June 13, 2023 | Mari Trix Estomata | _Mapping of Forest Cover Extent and Change in the Philippines Using Decision Tree Classification on ALOS-1/2 PALSAR-1/2 Mosaic Data_ | [Proceedings of the 40th Asian Conference on Remote Sensing](https://bit.ly/Estomata_2019)) | [@Trixie_EA](https://twitter.com/Trixie_EA) | [Estomata_2019](https://twitter.com/LadiesOfLandsat/status/1668628236635639809) |  L-Band SAR, REDD+, Unbiased Area Estimation, Multi-Temporal Speckle Filtering  |
 183 | July 31, 2023 | Sona Guliyeva | _Comparative Analysis of Machine Learning Algorithms for Crop Mapping Based on Azersky Satellite Images_ | [ICAIAME 2022: 4th International Conference on Artificial Intelligence and Applied Mathematics in Engineering](https://link.springer.com/book/10.1007/978-3-031-31956-3) | [@SonaGuliyeva_15](https://twitter.com/Trixie_EA) | [Guliyeva 2023](https://twitter.com/SonaGuliyeva_15) |  Remote Sensing, Deep Learning, Azersky, Crop Map, GEE |
+<!-- END_MARKER -->
