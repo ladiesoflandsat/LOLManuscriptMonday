@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 
 def markdown_copy(source_path,target_path):
@@ -69,4 +70,5 @@ for markdown_file in markdown_files:
         target_file = markdown_file
     else:
         source_file = markdown_file
-    markdown_copy(source_file,target_file)
+    print(source_file,target_file)
+    markdown_copy(Path(source_file),Path(target_file))
